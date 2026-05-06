@@ -1,4 +1,4 @@
-# co-cognition
+# Co-cognition
 Canonical definition of Co-Cognition, a human-AI thinking process where cognition emerges through interaction, feedback, and recursive refinement.
 
 # Co-Cognition
