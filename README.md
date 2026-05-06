@@ -11,6 +11,10 @@ Co-Cognition is a mode of thinking in which human cognition and artificial intel
 
 It is not simply AI assistance. It is the emergence of thought through interaction, where the human supplies intent, judgment, context, and lived experience, while the system supplies compression, recombination, recall, and alternative structure.
 
+## Visual Explanation
+
+<img width="2048" height="1365" alt="The Drifted Self" src="https://github.com/user-attachments/assets/90db7ee4-63b6-4294-ae5c-bf14138be121" />
+
 ## Relationship to Reality Drift
 
 Within the Reality Drift framework, Co-Cognition describes one of the central cognitive conditions of the AI era.
